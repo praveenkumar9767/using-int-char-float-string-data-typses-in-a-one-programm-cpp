@@ -1,0 +1,36 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    string a = " my name is praveen kumar";
+    cout<< " what is your name = "<< a << endl;
+ // Strings are objects that represent sequences of characters//
+
+    float b = 19;
+    cout<< " my age is =" << b<<endl;
+    //Numerical implementation of a decimal number is a float point number. //
+
+     string c= " i am from new delhi";
+     cout<<" And "<< c<< endl; 
+     
+     int myself;
+     cout<< " currently i am pursuing btech from maharaja surajmal intitute of technology"<< endl;
+     cin>> myself;
+     //int data types can store intergers like 1,2,345,etc.
+     //but we have store characters value because they store both
+     char evening = 'a';
+
+     cout<< " my collage section is = "<< a<< endl;
+     //char data types can store only single intergers value like 'a' 'b' '9' '1' etc
+     return 0;
+}
+
+https://github.com/praveenkumar9767/using-int-char-float-string-data-typses-in-a-one-programm-cpp
+/commits?author=praveenkumar9767
+
+     
+     
+     
+    
+    
+    
